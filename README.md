@@ -49,7 +49,9 @@ Now, we can begin putting our Arduino, Sensor, and Screen together!
 17. Establish a common Ground by connecting the GND rail on the breadboard to a GND pin on the Arduino using a black wire
 18. Cut one male to male wire and one female to female wire so that each segment is about 2 inches in length.
 19. Strip the jacket at the ends
-20. Twist the three leads (one male and two female) together, and solder the connection to create a signal splitter. Refer to image below <img width="959" height="719" alt="image" src="https://github.com/user-attachments/assets/684fc157-1ac5-4069-a65a-d23317c6da3a" />
+20. Twist the three leads (one male and two female) together, and solder the connection to create a signal splitter. Refer to images below <img width="959" height="719" alt="image" src="https://github.com/user-attachments/assets/684fc157-1ac5-4069-a65a-d23317c6da3a" /> <img width="871" height="831" alt="image" src="https://github.com/user-attachments/assets/d57dcba7-003e-4ecb-91e4-ef5176c413df" />
+
+
 21. Connect the male end of the wire to the 3.3 V pin on the Arduino.
 22. Connect the two female ends to the VCC pin on the screen and VIN pin on sensor respectively to distribute power to both the components. (Power line)
 23. Connect the male end of the wire to the SDA pin on the Arduino.
@@ -61,7 +63,7 @@ Now, we can begin putting our Arduino, Sensor, and Screen together!
  
 Now we can begin the final assembly!
 
-26. Download the following CAD file using the link below and 3D print the design with the Bamboo P1S using PLA. https://cad.onshape.com/documents/86e2b73f0955df2799a4342b/w/6d0c789f0a9a81bec4d81045/e/72fe08d523685dd6bc83bfe8?renderMode=0&uiState=69f517a805b22f6e38fd06c4
+26. Download the following CAD file using the link below and 3D print the design (we used the Bamboo P1S printer and PLA). https://cad.onshape.com/documents/86e2b73f0955df2799a4342b/w/6d0c789f0a9a81bec4d81045/e/72fe08d523685dd6bc83bfe8?renderMode=0&uiState=69f517a805b22f6e38fd06c4
 27. Place the Screen and Sensor in the appropriate compartments making sure to reconnect wires wires as described above.
 
 
