@@ -42,7 +42,19 @@ _**Setup:**_
 
 Now, we can begin putting our Arduino, Sensor, and Screen together!
 
-15. ...
+15. Cut 1 male to female wire to 2 inches in length, strip ends of the wire and connector, and solder them together to successfully shorten wires to fit in the 3D printed box.
+16. Establish a common Ground by connecting the GND rail on the breadboard to a GND pin on the Arduino using a black wire
+17. Cut one male to male wire and one female to female wire so that each segment is about 2 inches in length.
+18. Strip the jacket at the ends
+19. Twist the three leads (one male and two female) together, and solder the connection to create a signal splitter. Refer to image below <img width="959" height="719" alt="image" src="https://github.com/user-attachments/assets/684fc157-1ac5-4069-a65a-d23317c6da3a" />
+20. Connect the male end of the wire to the 3.3 V pin on the Arduino.
+21. Connect the two female ends to the VCC pin on the screen and VIN pin on sensor respectively to distribute power to both the components. (Power line)
+22. Connect the male end of the wire to the SDA pin on the Arduino.
+23. Connect the two female ends to the SDA pins on the screen to enable I2C data communication between the Arduino and the components. (Data line)
+24. Connect the male end of the second data splitter to the SCL pin on the Arduino.
+25. Connect the two female ends to the SCL pins on both the sensor and the screen to synchronize data transmission. (Clock line)
+
+
 
 
 
