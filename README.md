@@ -55,6 +55,7 @@ Now, we can begin putting our Arduino, Sensor, and Screen together!
 25. Connect the two female ends to the SCL pins on both the sensor and the screen to synchronize data transmission. (Clock line)
 
 Now we can begin the final assembly!
+
 26. Download the following CAD file using the link below and 3D print the design with the Bamboo P1S using PLA. https://cad.onshape.com/documents/86e2b73f0955df2799a4342b/w/6d0c789f0a9a81bec4d81045/e/72fe08d523685dd6bc83bfe8?renderMode=0&uiState=69f517a805b22f6e38fd06c4
 27. Place the Screen and Sensor in the appropriate compartments making sure to reconnect wires wires as described above.
 
