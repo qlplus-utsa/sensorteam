@@ -4,7 +4,7 @@ _**About This Project:**_
 
 **Wearable Sensor** is a QL Plus Project developed by Briana Sepulveda, Nanda Johnson, Jessica Malakhova, and Arturo Martinez.
 
-This project's ultimate goal is to create a device under $30 to display and measure user’s heartrate, temperature, SpO2 with 95% accuracy.
+This project's ultimate goal is to create a device under $30 to display and measure user’s heartrate and average hear rate with 95% accuracy.
 
 Here's a demonstration of Wearable Sensor! https://youtu.be/xxxx
 
@@ -20,9 +20,9 @@ Heart Rate Sensor Module MAX30102 (Arduino Compatible): [https://a.co/d/0g5pY85o
 
 ELEGOO Breadboard 830 Point Solderless: [https://a.co/d/044U4O8P]
 
-18650 Battery Holder with DC Jack: [https://a.co/d/00qv2IIv]
+9V Battery Holder with DC Jack: [(https://a.co/d/0j7ZXtKE)]
 
-18650 Batteries: [https://a.co/d/05ejoc3g]
+9V Batteries: [(https://a.co/d/0j7ZXtKE)]
 
 
 _**Setup:**_
@@ -60,7 +60,7 @@ Now, we can begin putting our Arduino, Sensor, and Screen together!
 24. Connect the two female ends to the SDA pins on the screen to enable I2C data communication between the Arduino and the components. (Data line)
 25. Connect the male end of the second data splitter to the SCL pin on the Arduino.
 26. Connect the two female ends to the SCL pins on both the sensor and the screen to synchronize data transmission. (Clock line)
-27. Connect the DC Jack to the Arduino to allow the sensor and screen to be battery operated (18650 batteries).
+27. Connect the DC Jack to the Arduino to allow the sensor and screen to be battery operated (9V batteries).
 28. If creating connection betwen DC jack and battery holder, connect dashed wire at the jack to the positive wire from the batteries. Solder the other wire at the jack to the negative wire from the batteries. Refer to image below.<img width="750" height="563" alt="image" src="https://github.com/user-attachments/assets/4a3ebee3-4488-4fd2-a674-ede2ff99d36a" />
  
 Now we can begin the final assembly!
