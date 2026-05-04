@@ -8,6 +8,8 @@ This project's ultimate goal was to create a device under $30 to measure and dis
 
 Here's a demonstration of Wearable Sensor! [https://youtu.be/D9882Sl7dts?si=xfsRgESFx7WbDfMQ]
 
+------
+
 _**Materials Used:**_
 
 ELEGOO UNO R3 Board: [https://a.co/d/0aggOWlQ]
@@ -22,6 +24,7 @@ Heart Rate Sensor Module MAX30102 (Arduino Compatible): [https://a.co/d/0g5pY85o
 
 9V Batteries: [(https://a.co/d/0j7ZXtKE)]
 
+----
 
 _**Setup:**_
 
@@ -66,6 +69,7 @@ Now we can begin the final assembly!
 26. Download the following CAD file using the link below and 3D print the design (we used the Bamboo P1S printer and PLA). https://cad.onshape.com/documents/86e2b73f0955df2799a4342b/w/6d0c789f0a9a81bec4d81045/e/72fe08d523685dd6bc83bfe8?renderMode=0&uiState=69f517a805b22f6e38fd06c4
 27. Place the Screen and Sensor in the appropriate compartments making sure to reconnect wires as described above.
 
+----
 
 **CONGRATULATIONS!!! 🥳 You've succesfully built your own Wearable Sensor that you can use and enjoy wherever you desire!**
 
