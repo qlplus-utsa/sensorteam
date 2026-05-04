@@ -8,6 +8,14 @@ This project's ultimate goal was to create a device under $30 to measure and dis
 
 Here's a demonstration from Sensor Team! [https://youtu.be/D9882Sl7dts?si=xfsRgESFx7WbDfMQ]
 
+
+
+https://github.com/user-attachments/assets/152a18be-d472-45ed-b883-41f66a900df6
+
+
+
+
+
 ------
 
 ## _**Materials Used:**_
@@ -39,7 +47,7 @@ Here's a demonstration from Sensor Team! [https://youtu.be/D9882Sl7dts?si=xfsRgE
 11. Open and Close the Arduino IDE to ensure the libraries are properly downloaded
 12. Go back to this Github and open the "sensorteamcode" file
 
-IMAGE HERE
+<img width="797" height="454" alt="image" src="https://github.com/user-attachments/assets/e66f7126-9bde-4683-a5b9-fd7629264c62" />
 
 13. Click in the code and press "Ctrl + A", then "Ctrl + C"
 14. Go back to the Arduino IDE, click inside your workspace, press "Ctrl + A", then "Backspace", then press "Ctrl + V" to paste the code
